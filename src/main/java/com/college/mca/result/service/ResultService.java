@@ -8,7 +8,7 @@ import java.util.List;
 @Service
 public class ResultService {
 
-    public List<ResultDTO> getJuniorsResult() {
-    }
+//    public List<ResultDTO> getJuniorsResult() {
+//    }
 
 }
